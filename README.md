@@ -1,6 +1,6 @@
 # 2V Educação - Projetos Inovadores de Educação em Tecnologia
 
-Bem-vindo ao repositório oficial da 2V Educação no GitHub! Aqui, você encontrará informações valiosas sobre nossos projetos, com destaque para o InicianTI, um programa dedicado ao ensino de programação, e o SyTi, um projeto focado no desenvolvimento de sites para clientes.
+Bem-vindo ao repositório oficial da 2V Educação no GitHub! Aqui, você encontrará informações valiosas sobre nossos projetos, com destaque para o inicianTI, um programa dedicado ao ensino de programação, e o SyTi, um projeto focado no desenvolvimento de sites para clientes.
 
 ## Sobre a 2V Educação
 
@@ -8,9 +8,9 @@ A 2V Educação é uma empresa comprometida com a transformação educacional, e
 
 ## Projetos
 
-### InicianTI
+### inicianTI
 
-O InicianTI é um programa educacional projetado para introduzir pessoas de todas as idades ao fascinante mundo da programação. Nosso objetivo é tornar o aprendizado de linguagens de programação acessível e envolvente. Este repositório contém recursos, exercícios e projetos práticos que auxiliam no desenvolvimento de habilidades fundamentais em programação.
+O inicianTI é um programa educacional projetado para introduzir pessoas de todas as idades ao fascinante mundo da programação. Nosso objetivo é tornar o aprendizado de linguagens de programação acessível e envolvente. Este repositório contém recursos, exercícios e projetos práticos que auxiliam no desenvolvimento de habilidades fundamentais em programação.
 
 #### Como Contribuir
 
