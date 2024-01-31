@@ -1,4 +1,4 @@
-![image](https://github.com/2Veducacao/2Veducacao/assets/157932549/208f352f-e141-4cbc-9cbb-d27571538d71)![Descrição da imagem](img/BannerGitHub.png)
+![image](img/BannerGitHub.png)
 
 # 2V Educação - Projetos Inovadores de Educação em Tecnologia
 
