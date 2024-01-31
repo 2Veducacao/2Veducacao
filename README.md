@@ -45,7 +45,7 @@ Agradecemos contribuições de todos os níveis de habilidade. Se você é novo 
 
 ## Contato
 
-Fique à vontade para entrar em contato conosco através do nosso [site oficial](https://www.2veducacao.com.br) ou [e-mail](mailto:contato@2veducacao.com.br) se tiver dúvidas, sugestões ou se quiser se envolver mais de perto com nossos projetos.
+Fique à vontade para entrar em contato conosco através do nosso [site oficial](https://www.2veducacao.com.br) se tiver dúvidas, sugestões ou se quiser se envolver mais de perto com nossos projetos.
 
 Agradecemos por fazer parte da comunidade 2V Educação!
 
